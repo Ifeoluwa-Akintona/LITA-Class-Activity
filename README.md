@@ -150,7 +150,8 @@ This Power BI project uses the HR data to analyze information about employees su
    
        Purpose: Shows the total number of employees within the age of 25-34 by gender that have left the organization.
 
-       <img width="290" alt="Age 25-34" src="https://github.com/user-attachments/assets/7fa51d65-3087-456b-9c5f-027fcf722219">
+      <img width="290" alt="Age 25-34" src="https://github.com/user-attachments/assets/919f15e2-2a69-48c6-840c-d6a73ed29b4a">
+
    
 
    iii) Title: Age 35-44
@@ -158,8 +159,10 @@ This Power BI project uses the HR data to analyze information about employees su
        Type: Donut Chart
    
        Purpose: Shows the total number of employees within the age of 35-44 by gender that have left the organization.
+   
+   <img width="287" alt="Age 35-44" src="https://github.com/user-attachments/assets/88bc3dfd-2078-4403-a77e-ced3e0b50316">
 
-       <img width="287" alt="Age 35-44" src="https://github.com/user-attachments/assets/a898c5ee-89f9-4997-98f8-4c0156cead6d">
+
 
 
    iv) Title: Age 45-54
@@ -168,7 +171,8 @@ This Power BI project uses the HR data to analyze information about employees su
    
        Purpose: Shows the total number of employees within the age of 45-54 by gender that have left the organization.
 
-       <img width="434" alt="Age 45-54" src="https://github.com/user-attachments/assets/2f65689a-fdc1-48ff-8719-c85da62bef0e">
+      <img width="434" alt="Age 45-54" src="https://github.com/user-attachments/assets/eeb7e636-db68-45b2-a874-8ca6b134a7a2">
+
 
 
    v) Title: Over 55
@@ -177,7 +181,8 @@ This Power BI project uses the HR data to analyze information about employees su
    
        Purpose: Shows the total number of employees over the age of 55 by gender that have left the organization.
 
-       <img width="445" alt="Over 55" src="https://github.com/user-attachments/assets/ede65faa-063d-44e7-b646-2e81db51522d">
+     <img width="445" alt="Over 55" src="https://github.com/user-attachments/assets/3e720d33-c1cf-461b-abe6-2e0383dfa2b4">
+
 
 
 9. Attrition By Age Group and Marital Status. 
@@ -188,7 +193,7 @@ This Power BI project uses the HR data to analyze information about employees su
    
       Purpose: Shows the total number of employees under the age of 25 by marital status that have left the organization. 
 
-      <img width="288" alt="M Under 25" src="https://github.com/user-attachments/assets/e0e1f1a6-15d7-4130-a158-86ec2b023ab7">
+  <img width="288" alt="M Under 25" src="https://github.com/user-attachments/assets/33c1e599-66b3-4197-9498-e0fb6f79f606">
 
 
 
@@ -198,7 +203,7 @@ This Power BI project uses the HR data to analyze information about employees su
    
        Purpose: Shows the total number of employees within the age of 25-34 by marital status that have left the organization.
 
-       <img width="285" alt="M Age 25-34" src="https://github.com/user-attachments/assets/e4f31dbb-ad65-4265-93ce-83daed6af5e4">
+  <img width="285" alt="M Age 25-34" src="https://github.com/user-attachments/assets/e4f31dbb-ad65-4265-93ce-83daed6af5e4">
 
    
 
@@ -208,7 +213,7 @@ This Power BI project uses the HR data to analyze information about employees su
    
        Purpose: Shows the total number of employees within the age of 35-44 by marital status that have left the organization.
 
-       <img width="293" alt="M age 35-44" src="https://github.com/user-attachments/assets/51480127-6003-4a35-8aa6-b102e0592c59">
+  <img width="293" alt="M age 35-44" src="https://github.com/user-attachments/assets/51480127-6003-4a35-8aa6-b102e0592c59">
 
 
 
@@ -218,7 +223,7 @@ This Power BI project uses the HR data to analyze information about employees su
    
        Purpose: Shows the total number of employees within the age of 45-54 by marital status that have left the organization.
 
-       <img width="452" alt="M Age 45-54" src="https://github.com/user-attachments/assets/be443801-02e6-47b2-865d-d29ec028d228">
+  <img width="452" alt="M Age 45-54" src="https://github.com/user-attachments/assets/be443801-02e6-47b2-865d-d29ec028d228">
 
 
 
@@ -228,51 +233,143 @@ This Power BI project uses the HR data to analyze information about employees su
    
        Purpose: Shows the total number of employees over the age of 55 by marital status that have left the organization.
 
-       <img width="440" alt="M over 55" src="https://github.com/user-attachments/assets/489e5291-3adf-4dd1-ac62-b681453feca5">
+  <img width="440" alt="M over 55" src="https://github.com/user-attachments/assets/489e5291-3adf-4dd1-ac62-b681453feca5">
 
 
-10) 
+10. Total Monthly Income By Job Role
+
+     Type: Bar Chart
+   
+   Purpose: Shows the total monthly income of employees by their job role.
+
+   Fields:
+   
+   X-axis: Monthly Income
+   
+   Y-axis: Job Role
+
+   <img width="314" alt="TMIJB" src="https://github.com/user-attachments/assets/0d4d4579-a32a-4cf3-9d93-5fa7b6ac7b12">
+
+
+   
+11. Total Monthly Income By Department
+
+     Type: Column Chart
+   
+     Purpose: Shows the total monthly income of employees by their department.
+
+     Fields:
+   
+     X-axis: Department
+   
+     Y-axis: Monthly Income
+
+    <img width="315" alt="TMID" src="https://github.com/user-attachments/assets/55a4cc77-56b2-4f34-aaeb-aacb036eac98">
+
+
+12. Total Monthly Income By Education
+
+     Type: Bar Chart
+   
+     Purpose: Shows the total monthly income of employees by their education.
+
+     Fields:
+   
+     X-axis: Monthly Income
+   
+     Y-axis: Education
+
+    <img width="323" alt="TMIE" src="https://github.com/user-attachments/assets/e053ae98-c377-4bbf-8ab4-23938b96c327">
+
+
+13. Total Monthly Income By Marital Status
+
+     Type: Pie Chart
+   
+     Purpose: Shows the total monthly income of employees by their marital status.
+
+   
+    <img width="314" alt="TMIM" src="https://github.com/user-attachments/assets/273f7555-a180-4d9c-a40f-536be3b07e4a">
 
 
 
+14. Total Monthly Income By Gender
+
+    Type: Donut Chart
+   
+    Purpose: Shows the total monthly income of employees by their gender.
+
+    <img width="316" alt="TMIG" src="https://github.com/user-attachments/assets/8a755969-7279-466f-a234-56714d2e652d">
+
+
+15. Total Monthly Income By CF-Age Band
+
+     Type: Column Chart
+   
+     Purpose: Shows the total monthly income of employees by their age band.
+
+     Fields:
+   
+     X-axis: CF-Age Band
+   
+     Y-axis: Monthly Income.
+
+    <img width="323" alt="TMIC" src="https://github.com/user-attachments/assets/067c625e-cb43-4304-a080-6b116a13ebd4">
+
+
+    
 ### Overall Visualizations. 
-1) The Landing Page;
+1) The Overview Page;
    
-   <img width="620" alt="Landing Page" src="https://github.com/user-attachments/assets/3dff9268-ad93-4a39-b18a-c56f0f44ec8d">
+   <img width="575" alt="Overview" src="https://github.com/user-attachments/assets/097a5627-ecf6-4760-a43b-f781f87e39f6">
 
 
-2) The Sales Overview;
+2) Employee Rating;
    
-   <img width="614" alt="Sales Overview" src="https://github.com/user-attachments/assets/ad6124a7-11b9-457d-8ed8-49d7b241da73">
+   <img width="572" alt="Employee Rating" src="https://github.com/user-attachments/assets/e12c5c80-478d-423c-8027-2eecf21baae0">
 
 
-3) The Product Performance (Filtered to top 3)
+3) Gender Attrition Page
    
-   <img width="614" alt="Product Performance" src="https://github.com/user-attachments/assets/ec69ba69-0229-4ace-942a-77127fa0742c">
+   <img width="572" alt="Gender Attrition Data" src="https://github.com/user-attachments/assets/b773b0b0-fd07-4a6f-b94d-1e27e11bceb2">
 
 
-4) The Product Performance (Filtered to bottom 3)
+4) Marital Status Attrition Page
    
-   <img width="617" alt="PP" src="https://github.com/user-attachments/assets/a1704296-6349-4e94-b15e-9213c838c2dc">
+   <img width="574" alt="Marital Status AD" src="https://github.com/user-attachments/assets/80cf3c5f-b989-4547-a548-d20099052046">
 
 
-5) The Regional Performance (Filtered to year 2023)
+6) Employee Compensation
    
-   <img width="617" alt="2023 RP" src="https://github.com/user-attachments/assets/d6e67ced-6a8d-47b3-842c-6b8cfb6ef232">
-
-
-6) The Regional Performance (Filtered to year 2024)
-   
-   <img width="616" alt="2024 RP" src="https://github.com/user-attachments/assets/c741d8a9-c4de-4f0c-89d7-72d9d1a066ee">
+   <img width="572" alt="Employee compensation" src="https://github.com/user-attachments/assets/57a0dc7b-5a7e-4399-8492-e02906953741">
 
 
 
 
 ### Insights and Conclusion
-- Product Performance: The analysis provides insights showing that the product 'Shoes' generated the highest revenue with a percentage total of 29.2% while the product 'Socks' generated the lowest revenue with a percentage total of 8.6%.
-
-- Sales Overview: The analysis identifies the high-performing months and products
-
-- Regional Performance: Pinpoints regions with the highest sales potential. The analysis shows that in regards to quantity of product sold, the 'South Region' sold the highest number of products. In regards to revenue, in the year 2023; the 'South Region' generated the highest revenue with a percentage total of 43.5% while the 'West Region' generated the lowest revenue with a percentage total of 8%.
+- Attrition Rate:
+  i) The analysis provides insights showing that in every department, the 'R&D' had the highest number of employees that have left the organization with a total percentage of 65.37% while the'HR' department had the lowest number of employees that have left the organization with a total percentage of 4.29%.
   
-  In the year 2024, the 'South Region' still came on top and generated the highest revenue with a percentage total of 45% while the 'East Region' generated the lowest revenue with a percentage total of 9.2%.
+  ii) The analysis provides insights showing that in every education field, 'Human Resources' had the highest number of employees that have left the organization with a total percentage of 26% while 'Other' education field had the lowest number of employees that have left the organization with a total percentage of 13%.
+
+  iii) The analysis provides insights showing that according to gender, the 'Male Gender' had the highest number of employees that have left the organization with a total percentage of 60% while the'Female Gender' department had the lowest number of employees that have left the organization with a total percentage of 40%.
+
+  iv) The analysis provides insights showing that according to marital status, the 'Married people' had the highest number of employees that have left the organization with a total percentage of 45.78% while the 'Single People' had the lowest number of employees that have left the organization with a total percentage of 22.24%.
+
+- Employee Compensation:
+  i) The analysis identifies that according to job roles, the 'Sales Executive' earn the highest in the organization with a total income of $2,257,315 while the 'Human Resources' earn the lowest with a total income of $220,259
+
+  ii) The analysis identifies that according to department, 'R&D' earns the highest in the organization with a total income of $6,036,284 while the 'Human Resources' earn the lowest with a total income of $419,234
+
+  iii) The analysis identifies that according to education, 'Bachelor's Degree Holder' earns the highest in the organization with a total income of $3,727,875 (This is due to the larger percentage of the company's population being Bachelor Degree Holders, they cost the company more) while the 'Doctoral Degree Holders'  earn the lowest with a total income of $397,327 (They are few doctorate degree holder in the company). 
+
+  iv) The analysis identifies that according to marital status, 'Married People' earn the highest in the organization with a total percentage of 47.83% while the 'Divorced People' earn the lowest with a total percentage of 23.21%
+
+  v) The analysis identifies that according to gender, the 'Male gender' earns the highest in the organization with a total percentage of 58.87% while the 'Female gender' earn the lowest with a total percentage of 41.13%
+
+  vi) The analysis identifies that according to age band, people within the age band of '35-44' earn the highest in the organization with a total income of $3,427,792 while people 'under 25' earn the lowest with a total income of $257,901
+
+### Recommendations
+- The 'R&D' department has the highest attrition rate, the company can improve compensation and benefits, provide incentives, create a town hall meeting quartely to understand their employee and what they can do to improve welfare for employees in this department. This would help reduce the attrition rate in that department.
+
+- In regards to the male gender leaving the company more, feedback sections should be provided where employees can talk about their grievances and how their job satisfaction rating can be improved, this in turn can reduce the attrition rate in the company. 
